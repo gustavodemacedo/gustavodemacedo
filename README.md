@@ -11,3 +11,5 @@ Meu nome é Gustavo de Macedo
  0000110116394xsp@al.educacao.sp.gov.br
  
  @imacedo01
+
+![](![image](https://github.com/gustavodemacedo/gustavodemacedo/assets/170477047/520ea4b5-afaf-4793-84b9-1bb37154931f))

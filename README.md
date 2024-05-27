@@ -2,7 +2,7 @@
 
 Meu nome é Gustavo de Macedo
 
-- Estou estudando Alura
+- Estou estudando [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo espaço para minha organização e compartilhamento dos meus projetos desenvolidos
 
@@ -12,4 +12,4 @@ Meu nome é Gustavo de Macedo
  
  @imacedo01
 
-![](![image](https://github.com/gustavodemacedo/gustavodemacedo/assets/170477047/520ea4b5-afaf-4793-84b9-1bb37154931f))
+![](https://media1.tenor.com/m/mHwFbEqXsHsAAAAC/duck-tales-dagobert-duck.gif)
